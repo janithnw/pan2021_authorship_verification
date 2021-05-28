@@ -1,0 +1,34 @@
+centre	center
+fibre	fiber
+litre	liter
+theatre	theater or theatre
+colour	color
+flavour	flavor
+humour	humor
+labour	labor
+neighbour	neighbor
+apologize apologise	apologize
+organize organise	organize
+recognize recognise	recognize
+analyse	analyze
+breathalyse	breathalyze
+paralyse	paralyze
+travel	travel
+travelled	traveled
+travelling	traveling
+traveller	traveler
+fuel	fuel
+fuelled	fueled
+fuelling	fueling
+leukaemia	leukemia
+manoeuvre	maneuver
+oestrogen	estrogen
+paediatric	pediatric
+defence	defense
+licence	license
+offence	offense
+pretence	pretense
+analogue	analog or analogue
+catalogue	catalog or catalogue
+dialogue	dialog or dialogue
+

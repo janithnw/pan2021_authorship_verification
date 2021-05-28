@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+__pycache__/
+*.py[cod]
+
+archive/**
+pos_tagger/nltk-trainer-master/*
+
+temp_data/small_model_training_data/*.npy
+temp_data/large_model_training_data/*.npy
+
